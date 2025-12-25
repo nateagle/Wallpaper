@@ -1,0 +1,7 @@
+{
+  "name": "Quality wallpapers - AI Wallpapers",
+  "description": "Uma plataforma de descoberta e geração de papéis de parede de alta qualidade, com obras de arte personalizadas impulsionadas por inteligência artificial e pré-visualizações imersivas para dispositivos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
